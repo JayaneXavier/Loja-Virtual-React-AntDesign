@@ -1,0 +1,40 @@
+
+.card-img-top {
+  height: 18rem;
+  padding: 1rem
+}
+
+.card {
+  height: 32rem !important;
+  margin: 1rem;
+}
+
+.card-footer {
+  border: none !important;
+  background-color: white !important;
+  padding-bottom: 2rem !important;
+}
+
+.capa {
+  height: 400px;
+  background-image: url("/src/capa2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-top: 175PX;
+
+}
+
+.button {
+  margin-top: 50px;
+}
+
+.imagem {
+  margin-top: 180px;
+}
+
+.informacao {
+  margin-top: 240px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
